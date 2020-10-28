@@ -57,14 +57,14 @@ a:hover{
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 250px;
+  left: 18.75rem;
+  bottom:15.625rem;
 }
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 40px;
+  right: 18.75rem;
+  top: 2.5rem;
 }
 .hill{
   filter: grayscale(60%);
